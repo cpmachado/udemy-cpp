@@ -4,3 +4,4 @@ project(fundamentals)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(hello hello.cpp)
+add_executable(numvariables numvariables.cpp)
