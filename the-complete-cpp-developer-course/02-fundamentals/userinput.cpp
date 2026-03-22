@@ -7,18 +7,18 @@ using namespace std;
 int
 main(void) {
     int age;
-	string fullName;
+    string fullName;
 
     cout << "Please enter your age: ";
     cin >> age;
-	cin.get();
+    cin.get();
 
     cout << "You are " << age << " years old." << endl;
 
     cout << "Please enter your name: ";
-	getline(cin, fullName);
+    getline(cin, fullName);
 
-	cout << "Hello " << fullName << "!" << endl;
+    cout << "Hello " << fullName << "!" << endl;
 
     return 0;
 }
