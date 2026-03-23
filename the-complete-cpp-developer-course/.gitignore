@@ -1,1 +1,5 @@
+# ignore build
 build
+
+# ignore astyle formatted
+*.orig
