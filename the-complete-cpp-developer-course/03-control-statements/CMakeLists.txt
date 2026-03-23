@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(control control.cpp)
 add_executable(selection selection.cpp)
+add_executable(grade grade.cpp)
