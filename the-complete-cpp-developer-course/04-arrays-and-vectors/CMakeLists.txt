@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(arrays arrays.cpp)
 add_executable(foreach foreach.cpp)
+add_executable(morearray morearray.cpp)
